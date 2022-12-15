@@ -1,3 +1,3 @@
 # blog
 
-- a blog repository using jekyll-TeXt theme
+- a repository for a blog made using jekyll-TeXt theme
